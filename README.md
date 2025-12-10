@@ -1,2 +1,3 @@
 # ubiquitous-profile
-web programming with Python, HTML, CSS &amp;JavaScript
+
+portfolio creation with Python &amp; Django 
